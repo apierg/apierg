@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Andrea
 
-🎓 PhD student working on Gender-Inclusive Machine Translation \
-📍 University of Trento + Fondazione Bruno Kessler (FBK), Italy  \
-🤓 Passionate about language technologies and fairness in AI
+💡 NLP researcher \
+🎓 PhD @ University of Trento + Fondazione Bruno Kessler (FBK), Italy  \
+🤓 Passionate about language technologies and ethics in AI
 
 [![Website](https://img.shields.io/badge/website-apierg.github.io-blue?style=flat-square&logo=github)](https://apierg.github.io)
 [![Google Scholar](https://img.shields.io/badge/Scholar-AndreaPiergentili-blue?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=SceVs8kAAAAJ)
